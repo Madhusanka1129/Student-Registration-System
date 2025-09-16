@@ -19,13 +19,6 @@ A Windows Forms desktop application built for **Almeda Maha Vidyalaya** to digit
 -   **Database**: SQL Server
 -   **Data Access**: ADO.NET (SqlConnection, SqlCommand)
 
-## 📸 Screenshots
-
-| Main Form | Registration Form | Student Details |
-| :---: | :---: | :---: |
-| ![Main Form] <img width="467" height="247" alt="Main Screen" src="https://github.com/user-attachments/assets/8f3ecd89-d625-4ee1-a217-2a078f91639e" />
-| ![Registration Form](Screenshots/Student%20Registation%20Screen.PNG) 
-| ![Details Form](Screenshots/Student%20Details.PNG) |
 
 ## 🗄️ Database Schema
 
