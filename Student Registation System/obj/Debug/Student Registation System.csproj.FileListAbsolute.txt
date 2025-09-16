@@ -1,0 +1,11 @@
+E:\SEUSL\Second_Year\Semester_02\Practical\VsStudio\Assignment\ASS_04\Student Registation System\Student Registation System\bin\Debug\Student Registation System.exe.config
+E:\SEUSL\Second_Year\Semester_02\Practical\VsStudio\Assignment\ASS_04\Student Registation System\Student Registation System\bin\Debug\Student Registation System.exe
+E:\SEUSL\Second_Year\Semester_02\Practical\VsStudio\Assignment\ASS_04\Student Registation System\Student Registation System\bin\Debug\Student Registation System.pdb
+E:\SEUSL\Second_Year\Semester_02\Practical\VsStudio\Assignment\ASS_04\Student Registation System\Student Registation System\obj\Debug\Student Registation System.csprojResolveAssemblyReference.cache
+E:\SEUSL\Second_Year\Semester_02\Practical\VsStudio\Assignment\ASS_04\Student Registation System\Student Registation System\obj\Debug\Student_Registation_System.mainForm.resources
+E:\SEUSL\Second_Year\Semester_02\Practical\VsStudio\Assignment\ASS_04\Student Registation System\Student Registation System\obj\Debug\Student_Registation_System.Properties.Resources.resources
+E:\SEUSL\Second_Year\Semester_02\Practical\VsStudio\Assignment\ASS_04\Student Registation System\Student Registation System\obj\Debug\Student Registation System.csproj.GenerateResource.Cache
+E:\SEUSL\Second_Year\Semester_02\Practical\VsStudio\Assignment\ASS_04\Student Registation System\Student Registation System\obj\Debug\Student Registation System.exe
+E:\SEUSL\Second_Year\Semester_02\Practical\VsStudio\Assignment\ASS_04\Student Registation System\Student Registation System\obj\Debug\Student Registation System.pdb
+E:\SEUSL\Second_Year\Semester_02\Practical\VsStudio\Assignment\ASS_04\Student Registation System\Student Registation System\obj\Debug\Student_Registation_System.Student_Details.resources
+E:\SEUSL\Second_Year\Semester_02\Practical\VsStudio\Assignment\ASS_04\Student Registation System\Student Registation System\obj\Debug\Student_Registation_System.Student_Registation.resources
